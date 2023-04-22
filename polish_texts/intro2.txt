@@ -1,0 +1,6 @@
+<h2>Twój udział w projekcie</h2>
+<p> Czeka na Ciebie 3 testowe zadania, nie więcej niż 5 min
+    na każde zadanie. Dla udzielenia odpowiedzi wykorzystasz moją wyszukiwarkę, która ułatwi Ci szukanie. 
+    Ważny jest też czas, poświęcony na odpowiedzi, więc postaraj się nie zwlekać. Po ukończeniu zadań pokaże Ci też twój wynik wraz z zebranymi wynikami podczas 
+    eksperymentu!
+</p>

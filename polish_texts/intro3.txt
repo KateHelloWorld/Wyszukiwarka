@@ -1,0 +1,3 @@
+<h2>Co będziesz robić?</h2>
+<p>Z góry Ci dziękuję, że poświęcasz swój czas eksperementowi! Dzisiaj możesz uważać siebie za 
+    prawdziwego testera nowej technologii! Teraz pokażę Ci, jak wykonywać zadania na prostym przykładzie</p>

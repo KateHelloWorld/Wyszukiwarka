@@ -1,0 +1,238 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form#table::-webkit-scrollbar
+{
+  display: none;
+}
+body{
+    background-image: url('../pictures/background.svg');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: auto 100vh;
+    height: 100vh;
+}
+form#search{
+    align-items: center;
+    display: flex;
+    left: 102vh;
+    position: absolute;
+    top: 37.6vh;
+}
+input{
+    font-size: medium;
+    font-weight: 540;
+    height: 40px;
+    width: 28.2vh;
+}
+input:focus{
+    outline:none;
+    box-shadow: 1px 1px 10px rgba(255, 0, 200, 0.4);
+}
+.search{
+    border: double 3px transparent;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+
+    background-image: linear-gradient(white, white), 
+                      linear-gradient(to right, rgb(255, 0, 200), rgba(199, 199, 199, 0.1));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    margin-right: 5vh;
+}
+input[name="search"]{
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border: none;
+    padding: 0px 10px;
+}
+.nosearch{
+    border: double 3px transparent;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    
+    background-image: linear-gradient(white, white), 
+                      linear-gradient(to left, rgb(255, 0, 200), rgba(199, 199, 199, 0.1));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+}
+input[name="nosearch"]{
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border: none;
+    padding: 0px 10px;
+}
+button>img#line_nosearch{
+    position: absolute;
+}
+button.bSearch{
+    background-color: white;
+    border: none;
+    position: absolute;
+    transform: translateX(31.3vh);
+}
+button.bSearch:hover img#nosearch_icon{
+    height: 35px;
+}
+button>img#nosearch_icon{
+    height: 40px;
+}
+.vertical_line{
+    border: 0.1px solid black;
+    height: 38vh;
+    left: 30.6vh;
+    position: absolute;
+    width: 0px;
+}
+.vertical_line#bottom{
+    bottom: 0px;
+    height: 27.5vh;
+}
+form#table{
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 90.8vh;
+    overflow: auto;
+    position: absolute;
+    width: 91.95vh;
+}
+.option{
+    align-items: center;
+    background-color: white;
+    border-bottom-left-radius: 70px;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 28px;
+    height: fit-content;
+}
+.name, .description{
+    align-items: center;
+    display: inline-block;
+    margin-left: 24px;
+    padding: 24px 0px; 
+    text-align: justify;
+    transform: translateX(-40px);
+}
+.name{
+    width: 27.5%;
+}
+.description{ 
+    width: 61%;
+}
+.checkbox{
+    align-self: flex-end;
+    background-color: white;;
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
+.checkbox:hover{
+    box-shadow: 1px 1px 10px  rgba(255, 0, 200, 0.8);
+}
+input[type="radio"]{
+    opacity: 0;
+    width: 40px;
+}
+.container>img{
+    opacity: 0;
+    position: absolute;
+    transform: translateX(-40px);
+    z-index: -1;
+}
+.container input[type="radio"]:checked ~ img {
+    opacity: 100;
+    z-index: 1;
+}
+button#next_task{
+    background-color: transparent;
+    border: none;
+    bottom: 4.5vh;
+    height: 4.7vh;
+    position: fixed;
+    right: 25vh;
+    width: 40vh;
+}
+button#next_task>img{
+    height: 25px;
+    transform: translate(11vh, -4px);
+    transition: opacity 0.5s, transform 0.7s;
+    opacity: 0;
+}
+button#next_task:hover>img{
+    transform: translate(13vh, -4px);
+    opacity: 1;
+}
+.task{
+    text-align: justify;
+    top: 52vh;
+    left: 108vh;
+    position: absolute;
+    width: 58vh;
+}
+.task>p{position: absolute;}
+.task>p#time{
+    left: 66.5vh;
+    top: 7.5vh;
+    color: #657342;
+    font-size: 0.86em;
+}
+.task>p#t2,
+.task>p#t4{top: 13vh;}
+img#face{
+    bottom: 23.5vh;
+    position: absolute;
+    left: 59.3vh;
+}
+#white_rectangle{
+    background-color: white;
+    height: 100vh;
+    position: absolute;
+    width: 100vh;
+    z-index: 10;
+}
+p.clickToProceed{
+    font-size: 0.9em;
+    text-align: center;
+    position: absolute;
+    top: 45vh;
+    left: 168.5vh;
+    width: 15vh;
+}
+button#next{
+    background-color: transparent;
+    border: none;
+    height: 100vh;
+    position: absolute;
+    width: 100vw;
+    z-index: 15;
+}
+button{
+    color: white;
+    text-decoration-line: none;
+    font-size: 1rem;
+}
+#three_arrows{
+    position: absolute;
+    left: 40vh;
+    top: 18vh;
+    width: 12vh;
+}
+#circle{
+    background-color: white;
+    border-radius: 50%;
+    border: none;
+    left: 168vh;
+    position: absolute;
+    top: 41vh;
+    height: 16vh;
+    width: 16vh;
+}
+@media only screen and (max-width:1232px){
+    body{
+        background-image: url('pictures/background_mini.svg');
+    }
+}

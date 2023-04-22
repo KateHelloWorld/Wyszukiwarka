@@ -1,0 +1,15 @@
+ <p id="t1"><b>Tip1: </b>Otrzymasz krótki opis sytuacji życiowej, w której są zaznaczone słowa kluczowe, ważne w wyborze odpowiedzi</p>
+                    
+<p id="t2"><b>Tip2: </b>Posortować odpowiedzi pomoże Ci wyszukiwarka. Ma dwa pola, i to jest nowość! W pole search wpisz słowa kluczowe,
+    które mają się znaleść w pożądanym wyniku, a w pole nosearch - wpisz te, których chcesz uniknąć</p>
+    
+<p id="t3"><b>Tip3: </b>Możesz korzystać z wyszukiwarki dowolną liczbę raz, Twoim zadaniem jest znaleść odpowiedź najbardziej odpowiadającą
+    wymaganiom zadania. Liczy się także czas, który poświęcisz na udzielenie odpowiedzi</p>
+    
+<p id="t4">A teraz <b>Zadanie 0</b> (wyniki nie będą zapisywane, możesz poćwiczyc). 
+    W tabeli po prawej jest kilkadziesiąt wariantów odpowiedzi, możesz przeskrolować tabelę w dół. 
+    Znajdź i zaznacz (kliknij w kółko w lewym dolnym rogu opcji) najbardziej pasującą odpowiedź do zadania.
+    Skorzystaj z wyszukiwarki nad zadaniem</p>
+<p id="task0"><b>Zadanie 0</b><br>Jurek szuka prezenet dla wnuczki na 5 urodziny, dlatego wszedł na stronę sklepu z zabawkami.
+    Dziewczynka nie lubi <b>pluszaków</b>. Także, przez słabe zdrowie rzadko bawi się na ulicy, 
+    więc nie potrzebuję zabawek dla gier <b>plenerowych</b>. Natomiast uwielbia <b>lalki i kucyki</b>. Uważaj na znak <b>6-12</b> lat :-)</p>

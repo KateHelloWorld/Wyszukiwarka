@@ -1,0 +1,9 @@
+Agnieszka uwielbia eksperymentować z kosmetykami. Ale jej cera jest wybredna do produktów.    
+Dzisiaj są wyjątkowe rabaty i ona koniecznie ma coś kupić.<br>
+Ma wyjątkowo <b>tłustą</b> cerę, dlatego kosmetyki dla suchego i mieszanego typu mają być od razu pominięte. 
+Kosmetyki mają być <b>wodoodporne</b> i <b>nie nawilżające</b>. Agnieszka ma wrażliwą skóre, dlatego nie stosuje 
+<b>skrabów</b> i prouktów zawierających <b>alkohol</b>, wywołujących u niej podrażnienie. 
+Przez mocne przebarwienia wybiera tylko podkład <b>z dużym kryciem</b>.
+Z produktami brędu <b>XXXX</b> miała kilka nieprzyjemnych sytuacji i więcej go nie kupi.
+<br>
+Który artykuł jest najbardziej zbliżony do wymagań Angnieszki?', 

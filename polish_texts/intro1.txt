@@ -1,0 +1,4 @@
+<h2> Witaj w serwisie <br>“Wyszukiwarka z eliminacja”!</h2>
+<p>Dana strona internetowa została utworzona dla przeprowadzenia badania zwiększenia efektywności wyszykiwarek. 
+Chciał(a)byś łatwiej formułować zapytania do wyszukiwarek i znachodzić dane szybciej i precyzyjniej?
+To jest moim marzeniem! </p>

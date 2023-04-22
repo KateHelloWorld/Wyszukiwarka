@@ -1,0 +1,6 @@
+<tr id="head">
+    <th>Prioritet</th>
+    <th>Nazwa, Cena</th>
+    <th>Opis</th>
+    <th>Wybór&emsp;</th>
+</tr>
